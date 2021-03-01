@@ -1,0 +1,19 @@
+.js-click2load-overlay {
+	cursor: pointer;
+	text-align: center;
+	background-color: #38383d;
+	width: 30rem;
+	height: 20rem;
+	color: white;
+	font-size: 3rem;
+	padding: 1rem;
+	box-sizing: content-box;
+}
+
+.js-click2load-overlay img {
+	margin-top: 25px;
+}
+
+.js-click2load-overlay p {
+	margin: 0;
+}
